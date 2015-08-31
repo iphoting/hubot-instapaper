@@ -1,7 +1,7 @@
 {
   "name": "hubot-instapaper",
   "description": "Adds an URL to the Instapaper Service.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "iphoting",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, instapaper",
