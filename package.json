@@ -7,10 +7,10 @@
   "keywords": "hubot, hubot-scripts, instapaper",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-instapaper.git"
+    "url": "git://github.com/iphoting/hubot-instapaper.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-instapaper/issues"
+    "url": "https://github.com/iphoting/hubot-instapaper/issues"
   },
   "dependencies": {},
   "peerDependencies": {
